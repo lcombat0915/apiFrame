@@ -1,0 +1,8 @@
+2020-09-04 11:36:15,543 INFO [root] [logger.py (<module>:39] - 信息
+2020-09-04 11:36:15,544 WARNING [root] [logger.py (<module>:40] - 警告
+2020-09-04 11:36:15,544 ERROR [root] [logger.py (<module>:41] - 错误
+2020-09-04 11:36:15,544 CRITICAL [root] [logger.py (<module>:42] - 致命的
+2020-09-04 11:41:34,448 INFO [root] [logger1.py (<module>:39] - 信息
+2020-09-04 11:41:34,448 WARNING [root] [logger1.py (<module>:40] - 警告
+2020-09-04 11:41:34,448 ERROR [root] [logger1.py (<module>:41] - 错误
+2020-09-04 11:41:34,448 CRITICAL [root] [logger1.py (<module>:42] - 致命
